@@ -1,0 +1,9 @@
+.below-zero #counter{
+
+    color: red;
+
+}
+
+.info span {
+    display: block;
+}
