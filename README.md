@@ -1,2 +1,2 @@
 # Memory Game
-Memory Game for the DIO/TQI Fullstack Developer Challenge. It uses the [Cataas API](https://cataas.com/) to generate the cards
+Memory Game for the DIO/TQI Fullstack Developer Challenge. Differently from the original challenge proposal, this software tries first to load the game using the [Cataas API](https://cataas.com/) to generate the cards. In case it fails to load the data, it will run in fallback mode with local data.
